@@ -9,7 +9,7 @@ body {
   min-height: 100vh;
   margin: 0;
   padding: 40px 0;
-  background: url(../img/img.jpeg) no-repeat center center;
+  background: url(/img/img.jpeg) no-repeat center center;
   background-size: cover;
   font-family: "Amaranth", sans-serif;
 }
